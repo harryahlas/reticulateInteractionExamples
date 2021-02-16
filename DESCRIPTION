@@ -1,0 +1,11 @@
+Package: reticulateInterationExamples
+Type: Package
+Title: Examples of Python and R Interaction
+Version: 0.1.0
+Author: Harry Ahlas
+Maintainer: Harry Ahlas <hahlas@hotmail.com>
+Description: Just some examples for you.
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
